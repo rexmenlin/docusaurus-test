@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Site Blog</title>
+        <title>Rex Test! Blog</title>
         <link>https://rexmenlin.github.io/docusaurus-test/blog</link>
-        <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <description>Rex Test! Blog</description>
+        <lastBuildDate>Tue, 22 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[測試頁面Testing]]></title>
+            <link>https://rexmenlin.github.io/docusaurus-test/blog/test-blog-1</link>
+            <guid>test-blog-1</guid>
+            <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[寫寫看]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="寫寫看">寫寫看<a class="hash-link" href="#寫寫看" title="Direct link to heading">​</a></h2><p>這是第一個Docusaurus測試頁面</p><ul><li>新奇</li><li>快速</li><li>好玩</li></ul>]]></content:encoded>
+            <category>docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://rexmenlin.github.io/docusaurus-test/blog/welcome</link>

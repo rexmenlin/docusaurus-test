@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rexmenlin.github.io/docusaurus-test/blog</id>
-    <title>My Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <title>Rex Test! Blog</title>
+    <updated>2022-11-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rexmenlin.github.io/docusaurus-test/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Rex Test! Blog</subtitle>
     <icon>https://rexmenlin.github.io/docusaurus-test/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[測試頁面Testing]]></title>
+        <id>test-blog-1</id>
+        <link href="https://rexmenlin.github.io/docusaurus-test/blog/test-blog-1"/>
+        <updated>2022-11-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[寫寫看]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="寫寫看">寫寫看<a class="hash-link" href="#寫寫看" title="Direct link to heading">​</a></h2><p>這是第一個Docusaurus測試頁面</p><ul><li>新奇</li><li>快速</li><li>好玩</li></ul>]]></content>
+        <author>
+            <name>Rex Lin</name>
+            <uri>https://rexmenlin.github.io</uri>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
